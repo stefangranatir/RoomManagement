@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\bin\Debug\RoomManagment_v2.exe.config
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\bin\Debug\RoomManagment_v2.exe
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\bin\Debug\RoomManagment_v2.pdb
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.Form1.resources
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.Properties.Resources.resources
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.exe
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.pdb
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.Form2.resources
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.Form3.resources
