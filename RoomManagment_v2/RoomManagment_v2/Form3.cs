@@ -372,5 +372,10 @@ namespace RoomManagment_v2
             ProsID = int.Parse(splitano[0]);
             //MessageBox.Show("" + ProsID);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -154,5 +154,12 @@ namespace RoomManagment_v2
             FormaRezervacije.prijavljenb.PromjeniPrava(prijavljena.VratiRezProstorije(), prijavljena.VratiBrisRezervacije(), prijavljena.VratiPreRezervacije(), prijavljena.VratiDodKorisnika(), prijavljena.VratiBrisKorisnika(), prijavljena.VratiUrediKorisnika());
             FormaRezervacije.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form4 KorisnikManagement = new Form4();
+            KorisnikManagement.Show();
+
+        }
     }
 }

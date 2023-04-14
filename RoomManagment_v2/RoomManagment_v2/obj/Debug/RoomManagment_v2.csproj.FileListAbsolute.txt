@@ -11,3 +11,4 @@ C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagme
 C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.pdb
 C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.Form2.resources
 C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.Form3.resources
+C:\Users\pc\source\repos\RoomManagment_v2\RoomManagment_v2\obj\Debug\RoomManagment_v2.Form4.resources
